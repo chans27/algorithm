@@ -1,4 +1,4 @@
-package lv3;
+package lv3_loop.lv3;
 
 import java.util.Scanner;
 

@@ -1,6 +1,6 @@
-package lv3;
+package lv3_loop.lv3;
 
-import java.util.*;
+import java.util.Scanner;
 public class ExamScore {
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);

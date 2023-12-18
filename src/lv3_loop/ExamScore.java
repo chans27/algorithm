@@ -1,4 +1,4 @@
-package lv3_loop.lv3;
+package lv3_loop;
 
 import java.util.Scanner;
 public class ExamScore {

@@ -2,7 +2,7 @@ package lv5_String;
 
 import java.util.Scanner;
 
-public class CharAndString {
+public class CharAndString_1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

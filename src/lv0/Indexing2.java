@@ -13,7 +13,6 @@ public class Indexing2 {
         int[] new_num_list = Arrays.copyOfRange(num_list, 5, num_list.length);
         for (int i : new_num_list) {
             System.out.println(i);
-
         }
     }
 }

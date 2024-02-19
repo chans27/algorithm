@@ -1,4 +1,4 @@
-package lv2;
+package lv2_If;
 
 import java.util.*;
 public class FourDot_4 {

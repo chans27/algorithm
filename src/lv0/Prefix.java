@@ -1,7 +1,5 @@
 package lv0;
 
-import java.util.Arrays;
-
 public class Prefix {
     public static void main(String[] args) {
         int answer = solution("banana", "ban");

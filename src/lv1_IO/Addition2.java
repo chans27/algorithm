@@ -1,4 +1,4 @@
-package lv1;
+package lv1_IO;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package lv2;
+package lv2_If;
 
 import java.util.Arrays;
 import java.util.Scanner;

@@ -1,7 +1,5 @@
 package lv0;
 
-import java.util.Arrays;
-
 public class Addition2 {
     public static void main(String[] args) {
         System.out.println(solution("123456789"));

@@ -1,4 +1,4 @@
-package lv1;
+package lv1_IO;
 
 import java.util.*;
 public class Addition{

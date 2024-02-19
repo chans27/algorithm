@@ -1,4 +1,4 @@
-package lv1;
+package lv1_IO;
 
 public class Change1 {
     public static void main(String[] args) {

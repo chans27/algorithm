@@ -8,7 +8,7 @@ public class String1 {
         String str2 = "7";
         System.out.println(solution(str, str2));
     }
-
+    
     public static int solution(String t, String p) {
         int length = t.length() - p.length() + 1;
         long pNum = Long.parseLong(p);

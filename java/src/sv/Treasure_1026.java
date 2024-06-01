@@ -2,7 +2,7 @@ package sv;
 
 import java.util.*;
 
-public class Treasure {
+public class Treasure_1026 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int num = sc.nextInt();

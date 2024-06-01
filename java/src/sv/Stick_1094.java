@@ -2,8 +2,7 @@ package sv;
 
 import java.util.Scanner;
 
-/** 1094 **/
-public class Stick {
+public class Stick_1094 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int X = sc.nextInt();
@@ -19,9 +18,7 @@ public class Stick {
                 X -= myStick;
                 cnt++;
             }
-
         }
-
         System.out.println(cnt);
     }
 }

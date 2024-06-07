@@ -1,3 +1,9 @@
+/**
+ * 12935
+ * @param arr
+ * @returns {number[]|*}
+ */
+
 function solution(arr) {
   var min = Math.min(...arr)
   var answer = arr.filter(v => v !== min)
